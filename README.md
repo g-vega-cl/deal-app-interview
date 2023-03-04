@@ -19,7 +19,7 @@ For this app we use the React Native Elements UI framework
 https://reactnativeelements.com/
 
 # Requirements for your submission
-This is the good part. You need to create a pull request so that the code homepage looks like this:
+This is the good part. You need to create a pull request so that the code homepage looks similar to this:
 
 ![Landing page](https://github.com/g-vega-cl/deal-app-interview/blob/main/readme-images/Screenshot%202023-03-01%20at%2019.25.26.png?raw=true)
 
