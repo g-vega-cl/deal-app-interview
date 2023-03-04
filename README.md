@@ -27,6 +27,8 @@ This is the good part. You need to create a pull request so that the code homepa
 # Good practices:
 1. Small commits are better than one large commit. This also shows you know git
 2. Divide your code into components and import them. It's better to have a codebase component like `<App> <Header /> <Card /> <Footer /> </App>` than a single file with all the code.
+3. Don't assume product information is complete. Take into account scenarios where data could be undefined.
+4. 
 
 
 # FAQ:
