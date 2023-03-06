@@ -15,8 +15,8 @@ You can also press "w" to see the app in your web browser. But make sure you kee
 You should now see your app and your changes in real time.
 
 # Development guidelines
-For this app we use the React Native Elements UI framework And React Native components
-https://reactnativeelements.com/
+For this app we use the React Native Elements UI framework: https://reactnativeelements.com/ And React Native components
+
 
 # Requirements for your submission
 This is the good part. You need to create a pull request so that the code homepage looks similar to this:
