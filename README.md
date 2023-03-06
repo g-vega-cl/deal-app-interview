@@ -23,12 +23,15 @@ This is the good part. You need to create a pull request so that the code homepa
 
 ![Landing page](https://github.com/g-vega-cl/deal-app-interview/blob/main/readme-images/deal-app-interview-gif-example.gif?raw=true)
 
-
+2. EXTRA: The VIEW NOW button should open a modal with product information like price, compare_at_price, and updated_at (with properly formatted date)
+3. EXTRA: Make sure there is a loading or error page if there is an error with fetching data.
+4. EXTRA: Make it pretty!
 # Good practices:
 1. Small commits are better than one large commit. This also shows you know git
 2. Divide your code into components and import them. It's better to have a codebase component like `<App> <Header /> <Card /> <Footer /> </App>` than a single file with all the code.
 3. Don't assume product information is complete. Take into account scenarios where data could be undefined.
-4. 
+4. Styles should be consistent across a component, avoid creating two card components with different styles.
+5. Make 
 
 
 # FAQ:
@@ -38,3 +41,5 @@ This is the good part. You need to create a pull request so that the code homepa
     * If it doesn't work after running the previous command, check your PATH (google it).
     * A useful article https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/
 
+2. Does this app has a backend?
+    * This app does have a backend. It's pre-made and the only function implemented is: `getShopifyProducts`, which lives at `https://deal-app-backend.vercel.app/getShopifyProducts`
