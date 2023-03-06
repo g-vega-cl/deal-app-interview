@@ -15,7 +15,7 @@ You can also press "w" to see the app in your web browser. But make sure you kee
 You should now see your app and your changes in real time.
 
 # Development guidelines
-For this app we use the React Native Elements UI framework
+For this app we use the React Native Elements UI framework And React Native components
 https://reactnativeelements.com/
 
 # Requirements for your submission
