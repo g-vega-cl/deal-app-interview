@@ -21,7 +21,7 @@ https://reactnativeelements.com/
 # Requirements for your submission
 This is the good part. You need to create a pull request so that the code homepage looks similar to this:
 
-![Landing page](https://github.com/g-vega-cl/deal-app-interview/blob/main/readme-images/Screenshot%202023-03-01%20at%2019.25.26.png?raw=true)
+![Landing page](https://github.com/g-vega-cl/deal-app-interview/blob/main/readme-images/deal-app-interview-gif-example.gif?raw=true)
 
 
 # Good practices:
