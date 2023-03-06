@@ -23,6 +23,7 @@ This is the good part. You need to create a pull request so that the code homepa
 
 ![Landing page](https://github.com/g-vega-cl/deal-app-interview/blob/main/readme-images/deal-app-interview-gif-example.gif?raw=true)
 
+1. Fetch the data from: https://deal-app-backend.vercel.app/getShopifyProducts
 2. EXTRA: The VIEW NOW button should open a modal with product information like price, compare_at_price, and updated_at (with properly formatted date)
 3. EXTRA: Make sure there is a loading or error page if there is an error with fetching data.
 4. EXTRA: Make it pretty!
